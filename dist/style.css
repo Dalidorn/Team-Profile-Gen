@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(24, 23, 34);
+}
+
+header {
+    margin-bottom: 3rem;
+    background-color: rgb(44, 49, 66);
+    color: white;
+    padding: 25px;
+}
+
+.cards{
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    background-image: linear-gradient(rgb(153, 148, 156), rgb(65, 37, 65));
+    padding: 10px;
+    margin: 25px;
+    color: white;
+    font-size: larger;
+    outline: 5px black solid;
+    border: none;
+}
+
+.card-header{
+    background-color: rgb(44, 49, 66);
+    color:white;
+    font-size: 20px;
+}
+
+ul{
+    list-style: none;
+}
